@@ -1,6 +1,1 @@
-[submodule "WebQuake"]
-	path = WebQuake-sync
-	url = git@github.com:kzahel/WebQuake
-[submodule "WebQuake-async"]
-	path = WebQuake-async
-	url = git@bitbucket.org:kzahel/WebQuake
+
